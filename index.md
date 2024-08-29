@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/大图x.jpg
   alt: Qizheng Zhao's profile picture
 ---
 
