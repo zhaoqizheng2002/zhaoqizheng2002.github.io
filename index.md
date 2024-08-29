@@ -59,18 +59,6 @@ Applied Statistics, Data Mining, Machine Learning</p>
 
 <hr />
 
-<h2>Research Experience</h2>
-<p><strong>Sun Yat-sen University School of Public Health (Shenzhen)</strong><br />
-Research Team Member, Prof. Yiqiang Zhan’s Group<br />
-Jul 2023 - Present</p>
-<p>Conducted research on the epidemiology of neurodegenerative diseases using Mendelian randomization and statistical analysis methods. Participated in projects based on the UK Biobank and NHANES databases.</p>
-
-<p><strong>Sun Yat-sen University School of Public Health (Shenzhen)</strong><br />
-PI & Team Member, A.P. Yang Zhao’s Group<br />
-Mar 2022 - Present</p>
-<p>Focused on leveraging machine learning and deep learning for personalized health management, particularly in elderly health and fall risk prediction using sensor-based monitoring.</p>
-
-<hr />
 
 <h2>Fundings</h2>
 <p><strong>Shenzhen Medical Research Fund (SMRF)</strong><br />
